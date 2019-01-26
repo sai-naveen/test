@@ -2,7 +2,7 @@
 I am **_sai Naveen Kumaar_**.
 I am from **Degree** background.
 
-[This is a inline link to google.](www.google.co.in)
+[This is a inline link to google.](https://www.google.co.in)
 
 [This is a reference link to facebook.][reference link]
 
