@@ -2,14 +2,18 @@
 I am **_sai Naveen Kumaar_**.
 I am from **Degree** background.
 
-[Please click here to redirect to Google. This is inline link.](www.google.com)
+[This is a inline link to google.](www.google.co.in)
 
-[Please click here to redirect to Github.][reference link]
+[This is a reference link to facebook.][reference link]
 
-[This is a image link.](https://octodex.github.com/images/bannekat.png)
+![This is a inline image link.](https://octodex.github.com/images/bannekat.png)
+
+![This is a reference image link.][reference image link]
 
 
 
 
 
-[reference link]: www.github.com 
+
+[reference image link]: https://octodex.github.com/images/filmtocats.png
+[reference link]: www.facebook.com
